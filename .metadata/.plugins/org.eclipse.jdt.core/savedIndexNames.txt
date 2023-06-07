@@ -1,0 +1,4 @@
+INDEX VERSION 1.132+C:\Users\lopez\OneDrive\SENA\Cuarto trimestre\Java\Tallere_Guias_POO\Talleres_Autonomo\encapsulación\.metadata\.plugins\org.eclipse.jdt.core
+994384362.index
+3413725848.index
+1865797976.index
